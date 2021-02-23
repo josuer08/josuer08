@@ -1,6 +1,6 @@
 ### Hi there 👋, Oscar J Rodriguez B
 #### Josuer08
-![Josuer08](addthisbanerurl)
+![Josuer08](banner.png)
 
 Hello there! I'm Oscar, also known as Josuer08
 
