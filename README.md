@@ -1,6 +1,6 @@
-# Oscar J Rodriguez B
-## josuer08
-### FOSS advocate, Linux lover, content creator.
+### Hi there 👋, Oscar J Rodriguez B
+#### Josuer08
+![Josuer08](addthisbanerurl)
 
 Hello there! I'm Oscar, also known as Josuer08
 
@@ -10,47 +10,27 @@ You can find me arround the web in my [podcast](http://podcast.josue.xyz "git ad
 
 I also keep a ~~more updated~~ version of my repos at [git.josue](https://git.josue.xyz "copy of my repo")
 
-[![Josuer08's github stats](https://github-readme-stats.vercel.app/api?username=josuer08)](https://github.com/josuer08)
-## My content!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuer08)](https://github.com/anuraghazra/github-readme-stats)
 
-### My podcast (spanish)
+Skills: Linux/ backend/ C/ embedded/ voip/ networking
 
-<iframe src="https://anchor.fm/oscar-rodriguez898/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+- 🔭 I’m currently working on my cloud skills 
+- 🌱 I’m currently learning Go, Docker, LXC 
+- 👯 I’m looking to collaborate on the Linux kernel 
+- 🤔 I’m looking for help with my lang learn repo 
+- 💬 Ask me about Embedded, the future of IA, anything really 
+- 📫 How to reach me: josuer08@gmail.com 
+- ⚡ Fun fact: btw, I use arch 
 
-### My youtube videos (spanish)
 
-**wifi 5 vs wifi 6**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9-gjLJMaNcM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-**Trying to convince people to move to vim**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EACc67qqlJ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josuer08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josue-rodriguez-170103199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/josuer008/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvBNWTJ43Xe2AD54c9t5CKg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://josue.xyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/anchor.svg' alt='anchor' height='40'>](http://podcast.josue.xyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/josuer08)  
 
-### My web
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-https://josue.xyz
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josuer08&show_icons=true)  
 
-#### Visitor count.
-![Visitor Count](https://profile-counter.glitch.me/josuer08/count.svg)
-<!--
-**josuer08/josuer08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=josuer08)  
 
-Here are some ideas to get you started:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josuer08)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-    </div>
-</foreignObject>
-</svg>
+![Profile views](https://gpvc.arturio.dev/josuer08)  
