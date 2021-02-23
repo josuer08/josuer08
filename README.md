@@ -9,6 +9,7 @@ I love to talk about linux, FOSS, and anything tech related.
 You can find me arround the web in my [podcast](http://podcast.josue.xyz "git add dominicanos/"), my [youtube videos](http://youtube.josue.xyz "Josuer08 on YouTube") and read some of my tutorials, articles and translations to spanish in [my web.](https://josue.xyz).
 
 I also keep a ~~more updated~~ version of my repos at [git.josue](https://git.josue.xyz "copy of my repo")
+
 [![Josuer08's github stats](https://github-readme-stats.vercel.app/api?username=josuer08)](https://github.com/josuer08)
 ## My content!
 
@@ -43,3 +44,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
